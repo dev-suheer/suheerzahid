@@ -98,7 +98,7 @@ export function Hero() {
           </a>
           <div className="flex items-center gap-2">
             <a
-              href="https://github.com/suheer-zahid"
+              href="https://github.com/dev-suheer"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub"

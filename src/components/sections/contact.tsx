@@ -33,7 +33,7 @@ export function Contact() {
 
               <div className="flex justify-center gap-2 sm:gap-4 flex-wrap">
                 <a
-                  href="https://github.com/suheer-zahid"
+                  href="https://github.com/dev-suheer"
                   target="_blank"
                   rel="noopener noreferrer"
                   className={buttonVariants({ variant: "outline", size: "lg" })}
