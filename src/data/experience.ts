@@ -38,12 +38,12 @@ export const experiences: Experience[] = [
       "Built web apps, admin dashboards, and REST APIs for business clients. Delivered internal tools that improved team operations.",
     tech: ["React.js", "Node.js", "Angular", "PostgreSQL", "REST APIs"],
   },
-  {
-    company: "Code Ninja",
-    role: "Junior Frontend Developer",
-    period: "2019 — 2020",
-    description:
-      "Built web interfaces and integrated backend APIs. Shipped production-ready features while growing core development skills.",
-    tech: ["React.js", "Node.js", "TypeScript", "REST APIs"],
-  },
+  // {
+  //   company: "Code Ninja",
+  //   role: "Junior Frontend Developer",
+  //   period: "2019 — 2020",
+  //   description:
+  //     "Built web interfaces and integrated backend APIs. Shipped production-ready features while growing core development skills.",
+  //   tech: ["React.js", "Node.js", "TypeScript", "REST APIs"],
+  // },
 ];
